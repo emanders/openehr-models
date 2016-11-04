@@ -1,0 +1,40 @@
+{
+  "archetypes" : [ {
+    "id" : "openEHR-EHR-CLUSTER.organisation.v1.0.0",
+    "rmType" : "CLUSTER",
+    "name" : "Organisation",
+    "path" : "archetypes/cluster/openEHR-EHR-CLUSTER.organisation.v1.adls",
+    "sha" : "c88c5529570d2214d6c5d5a25cfa7d031d7d0997",
+    "languages" : [ "en", "de" ]
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.encounter.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "archetypes/composition/openEHR-EHR-COMPOSITION.encounter.v1.adls",
+    "sha" : "2ab4fea4190ae17ab4a85c41fe69ce49e435e1e0",
+    "languages" : [ "en", "sl" ]
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.report.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Report",
+    "path" : "archetypes/composition/openEHR-EHR-COMPOSITION.report.v1.adls",
+    "sha" : "e973a24ec96c2efccbbfa2b7f7f30df733c50c48",
+    "languages" : [ "en", "sl" ]
+  }, {
+    "path" : "archetypes/composition/openEHR-EHR-COMPOSITION.slots-filled.v1.adls",
+    "sha" : "bc2631193ce5529ab853df23561894306a67b955"
+  }, {
+    "path" : "archetypes/composition/openEHR-EHR-COMPOSITION.slots.v1.adls",
+    "sha" : "455bd932d90e88a5bf9a359504bd3392d0af5d82"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.summary.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Patient summary",
+    "path" : "archetypes/composition/openEHR-EHR-COMPOSITION.summary.v1.adls",
+    "sha" : "66d638b61b0faa25b121540ee4cdcd3a73e59043",
+    "languages" : [ "en", "sl" ]
+  }, {
+    "path" : "archetypes/openEHR-EHR-EVALUATION.problem_diagnosis.v1.adls",
+    "sha" : "04589778faaa2ecec3df1d9ea982398f45c72320"
+  } ]
+}
